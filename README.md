@@ -10,3 +10,6 @@ Welcome to my personal portfolio website – a creative, dynamic, and profession
 The website features a clean and intuitive user interface, responsive layout, stylish hover effects, smooth transitions, and a glowing theme that resonates with my personality. It includes multiple sections such as About, Research, Skills, Hobbies, Projects, and Contact, providing a comprehensive snapshot of my academic, professional, and creative life.
 
 As a BSc Computer Science student at MIT ACSC, I am actively working on real-world projects, engaging in research, and constantly learning new technologies. This portfolio is a live demonstration of my work and serves as my digital identity.
+
+*OUTPUT*
+<img width="1349" height="642" alt="Image" src="https://github.com/user-attachments/assets/8bc113a2-e591-4381-9f34-d5d46f45ab88" />
